@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianaAxente
 - 👀 I’m interested in becoming a great web developer
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on begginer friendly projects in JavaScript
+- 💞️ I’m looking to collaborate on beginner friendly projects in JavaScript
 - 📫 You can reach me at adrianaaxente@yahoo.com
 
 <!---
