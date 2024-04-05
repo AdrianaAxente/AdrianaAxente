@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdrianaAxente
-- 👀 I’m interested in becoming a great web developer
+- 👋 Hi, I’m @AdrianaAxente, aspiring software tester
+- 👀 I’m interested in becoming great at software developing and testing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on beginner friendly projects in JavaScript
+- 💞️ I’m looking to collaborate on beginner friendly projects on Testing and JavaScript
 - 📫 You can reach me at adrianaaxente@yahoo.com
 
 <!---
